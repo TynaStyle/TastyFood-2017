@@ -1,0 +1,154 @@
+ html,body{
+	 margin: 15px;
+	 padding: 0px;
+	 background-color: #f8f8f0;
+	 width: 100%;
+	 
+ }
+
+ ul,li,ol{
+	 margin: 0;
+	 padding: 0;
+ }
+
+ ul{
+	 list-style: none;
+ }
+
+ main{
+	 width: 950px;
+	 margin: 0 auto;
+	 font-family: Tahoma, sans-serif;
+	 font-size: 12px;
+	 font-weight: 400; 
+	 color: #acaa9e;
+	 clear: left;
+ }
+
+ nav{
+	 background-color: #9dba48;
+	 border-top-left-radius: 8px;
+	 border-top-right-radius: 8px;
+	 border:1px solid #83963c;
+ }
+
+ .chiken-logo{
+ 	float: left;
+ 	margin-right: 20px;
+ 	border: 3px solid #e4e5df;
+ 	margin-left: 20px;
+ }
+ #chiken-recipt{
+	height: 210px;
+
+ }
+ h3{
+ 	 text-overflow: right;
+ 	 text-align: left;
+ }
+
+ p{
+     text-overflow: right;
+     text-align: left;
+ }
+
+ a{
+	 text-decoration: none;
+	 color: #FFF;
+ }
+
+ nav li{
+	 display: inline-block;
+	 padding: 10px; 
+ }
+
+ .left{
+	 float: left;
+ }
+
+ .right{
+	 float: right;
+ }
+
+ .clearfix{
+	 clear: both;	
+ }
+
+ section{
+ 	 float: left;
+ 	 width: 665px;
+ 	 background-color: #fff;
+ 	 border: 2px solid #e4e5df;
+ }	 	
+
+ #chiken-link{
+ 	 text-decoration: none;
+	 background-color: #9dba48;
+	 border-top-left-radius: 8px;
+	 border-bottom-left-radius: 8px;
+	 border:1px solid #83963c;
+	 float: right;
+	 width: 135px;
+	 height: 30px;
+	 text-align: center;
+ }
+
+ #list-recomendation{
+	 width: 285px;
+	 background-color:#f8f8f0; 
+	 float:left;
+	 border: 2px solid #e4e5df;
+ }
+
+
+ .leftspecialbuttonscolumn{
+	float: left;
+	margin-left: 10px;
+}
+
+.specialbuttonsleft{
+	 float: left;
+	 background-color: #9dba48;
+	 border-top-left-radius: 8px;
+	 border-bottom-left-radius: 8px;
+	 border:1px solid #83963c;
+	 width: 115px;
+	 height: 20px;
+	 padding: 5px;
+	 text-align: center;
+	 text-decoration: none;	 
+ }
+
+ .rightspecialbuttonscolumn{
+	float: right;
+	margin-right: 10px;
+}
+
+ .specialbuttonsright{
+	 float: right;
+	 background-color: #9dba48;
+	 border-top-right-radius: 8px;
+	 border-bottom-right-radius: 8px;
+	 border:1px solid #83963c;
+	 width: 115px;
+	 height: 20px;
+	 padding: 5px;
+	 text-align: center;
+	 text-decoration: none;	 
+ }
+
+.p1{
+	text-align: center;
+}
+
+.p2{
+	text-align: center;
+}
+
+.b1{
+	text-align: center;
+}
+
+.b2{
+	text-align: center;
+}
